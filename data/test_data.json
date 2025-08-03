@@ -1,0 +1,20 @@
+{
+  "post_item": {
+       "name": "HP",
+       "data": {
+          "year": 2025,
+          "price": 1849.99,
+          "CPU model": "Intel Core i9",
+          "Hard disk size": "1 TB"
+       }
+    },
+  "put_item": {
+       "name": "Dell",
+       "data": {
+          "year": 2035,
+          "price": 1849.99,
+          "CPU model": "Intel Core i5",
+          "Hard disk size": "100 TB"
+       }
+    }
+}
